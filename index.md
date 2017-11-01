@@ -8,7 +8,15 @@ Find me on:
 
 ## Recent Publications (2015-)
 
+Miikka Silfverberg, Lingshuang Jack Mao and Mans Hulden (2018 to appear). _Sound Analogies with Phoneme Embeddings_. Inaugural Meeting of SCIL.
+
 Miikka Silfverberg and Mans Hulden (2017). _Automatic Morpheme Segmentation and Labeling in Universal Dependencies resources_. Universal Dependency Workshop at NoDaLiDa.
+
+Miikka Silfverberg and Mans Hulden (2017). _Weakly supervised learning of allomorphy_. SCLEM.
+
+Miikka Silfverberg, Adam Wiemerslage, Ling Liu and Lingshuang Jack Mao (2017). _Data Augmentation for Morphological Reinflection_. CoNLL SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection.
+
+ 
 
 ## Software
 
