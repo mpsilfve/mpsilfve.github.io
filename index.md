@@ -8,6 +8,8 @@ Find me on:
 
 ## Recent Publications (2015-)
 
+Miikka Silfverberg and Mans Hulden (2017). _Automatic Morpheme Segmentation and Labeling in Universal Dependencies resources_. Universal Dependency Workshop at NoDaLiDa.
+
 ## Software
 
 ## Talks
