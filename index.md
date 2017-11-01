@@ -4,7 +4,7 @@
 
 Find me on:
 
-[Google Scholar](https://scholar.google.com/citations?user=0ey1PKYAAAAJ&hl=en), [GitHub](https://github.com/mpsilfve), [LinkedIn](https://fi.linkedin.com/in/miikka-silfverberg-78146019)
+[Google Scholar](https://scholar.google.com/citations?user=0ey1PKYAAAAJ&hl=en), [GitHub](https://github.com/mpsilfve), [LinkedIn](https://fi.linkedin.com/in/miikka-silfverberg-78146019), [OGS](https://online-go.com/player/131477/)
 
 ## Recent Publications (2015-)
 
