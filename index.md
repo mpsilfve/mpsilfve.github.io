@@ -1,6 +1,6 @@
 # Miikka Silfverberg
 
-<img src="me1.jpg" alt="Photo" width="200" align="right"/> I am a postdoc at the Department of Linguistics at University of Colorado Boulder after having defended my PhD thesis on morphological tagging in October 2016. I work in the fields of Natural language processing (NLP) and Computational linguistics. My research interests include NLP for morphologically complex languages, computational semantic, morphological tagging, parsing, and computational morphology.
+<img src="me1.jpg" alt="Photo" width="200" align="right"/> I am a postdoc at the Department of Linguistics at University of Colorado Boulder after having defended my PhD thesis on morphological tagging at the Department of Modern Languages at the University of Helsinki in October 2016. I work in the fields of Natural language processing (NLP) and Computational linguistics. My research interests include NLP for morphologically complex languages, computational semantic, morphological tagging, parsing, and computational morphology.
 
 Find me on:
 
@@ -16,7 +16,7 @@ Miikka Silfverberg and Mans Hulden (2017). _Weakly supervised learning of allomo
 
 Miikka Silfverberg, Adam Wiemerslage, Ling Liu and Lingshuang Jack Mao (2017). _Data Augmentation for Morphological Reinflection_. CoNLL SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection.
 
- 
+## Thesis 
 
 ## Software
 
