@@ -1,3 +1,3 @@
 # Miikka Silfverberg
 
-<img src="drawing.jpg" alt="Drawing" style="width: 100px;"/>
+<img src="me.jpg" alt="Photo" style="width: 100px;"/>
