@@ -38,6 +38,9 @@ Mans Hulden, **Miikka Silfverberg** and Jerid Francom (2015). _Kernel Density Es
 
 ## Thesis 
 
+[Morphological Disambiguation using
+Probabilistic Sequence Models](https://helda.helsinki.fi/bitstream/handle/10138/167029/morpholo.pdf?sequence=1)
+
 ## Software Projects
 
 [The FinnPos morphological tagging toolkit](https://github.com/mpsilfve/finnpos)
