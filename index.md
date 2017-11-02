@@ -9,7 +9,7 @@
 **Contact**
 
 My email address is of the form first.last@colorado.edu. Please
-observe that there are two i:s and two k:s in "Miikka" and that
+observe that there are two i's and two k's in "Miikka" and that
 "Silfverberg" is spelled with "fv".
 
 ## Recent Publications (2015-)
