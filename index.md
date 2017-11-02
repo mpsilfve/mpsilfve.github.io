@@ -66,7 +66,7 @@ _Corpus Tools_. Invited talk at Langnet Graduate School, Turku,
 Finland. 12/2014.
 
 _Probabilistic parsing with weighted FSTs_. Invited tutorial at
-FSMNLP. 07/2012.
+FSMNLP, Donostia, Spain. 07/2012.
 
 
 ## Misc. Teaching Materials
