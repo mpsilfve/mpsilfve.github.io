@@ -14,27 +14,27 @@ observe that there are two i:s and two k:s in "Miikka" and that
 
 ## Recent Publications (2015-)
 
-*Miikka Silfverberg*, Lingshuang Jack Mao and Mans Hulden (accepted, 2018). _Sound Analogies with Phoneme Embeddings_. Inaugural Meeting of SCIL.
+**Miikka Silfverberg**, Lingshuang Jack Mao and Mans Hulden (accepted, 2018). _Sound Analogies with Phoneme Embeddings_. Inaugural Meeting of SCIL.
 
-*Miikka Silfverberg* and Mans Hulden (2017). _Automatic Morpheme Segmentation and Labeling in Universal Dependencies resources_. Universal Dependency Workshop at NoDaLiDa.
+**Miikka Silfverberg** and Mans Hulden (2017). _Automatic Morpheme Segmentation and Labeling in Universal Dependencies resources_. Universal Dependency Workshop at NoDaLiDa.
 
-*Miikka Silfverberg* and Mans Hulden (2017). _Weakly supervised learning of allomorphy_. SCLEM.
+**Miikka Silfverberg** and Mans Hulden (2017). _Weakly supervised learning of allomorphy_. SCLEM.
 
-*Miikka Silfverberg*, Adam Wiemerslage, Ling Liu and Lingshuang Jack Mao (2017). _Data Augmentation for Morphological Reinflection_. CoNLL SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection.
+**Miikka Silfverberg**, Adam Wiemerslage, Ling Liu and Lingshuang Jack Mao (2017). _Data Augmentation for Morphological Reinflection_. CoNLL SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection.
 
-*Miikka Silfverberg*, Teemu Ruokolainen, Krister Lindén and Mikko Kurimo (2016). _FinnPos: an open-source morphological tagging and lemmatization toolkit for Finnish_. Language Resources and Evaluation 50 (4).
+**Miikka Silfverberg**, Teemu Ruokolainen, Krister Lindén and Mikko Kurimo (2016). _FinnPos: an open-source morphological tagging and lemmatization toolkit for Finnish_. Language Resources and Evaluation 50 (4).
 
-*Miikka Silfverberg*, Pekka Kauppinen and Krister Lindén (2016). _Data-driven spelling correction using weighted finite-state methods_. STATFSM.
+**Miikka Silfverberg**, Pekka Kauppinen and Krister Lindén (2016). _Data-driven spelling correction using weighted finite-state methods_. STATFSM.
 
-Krister Lindén, Sam Hardwick, *Miikka Silfverberg* and Erik Axelson (2015). _Using HFST—Helsinki Finite-State Technology for Recognizing Semantic Frames_. SFCM.
+Krister Lindén, Sam Hardwick, **Miikka Silfverberg** and Erik Axelson (2015). _Using HFST—Helsinki Finite-State Technology for Recognizing Semantic Frames_. SFCM.
 
-*Miikka Silfverberg* and Jack Rueter (2015). _Can Morphological Analyzers Improve the Quality of Optical Character Recognition?_. IWCLUL.
+**Miikka Silfverberg** and Jack Rueter (2015). _Can Morphological Analyzers Improve the Quality of Optical Character Recognition?_. IWCLUL.
 
-Sam Hardwick, *Miikka Silfverberg* and Krister Lindén (2015). _Extracting Semantic Frames using hfst-pmatch_. NoDaLiDa.
+Sam Hardwick, **Miikka Silfverberg** and Krister Lindén (2015). _Extracting Semantic Frames using hfst-pmatch_. NoDaLiDa.
 
-Senka Drobac, *Miikka Silfverberg* and Krister Lindén (2015). _Automated Lossless Hyper-Minimization for Morphological Analyzers_. FSMNLP.
+Senka Drobac, **Miikka Silfverberg** and Krister Lindén (2015). _Automated Lossless Hyper-Minimization for Morphological Analyzers_. FSMNLP.
 
-Mans Hulden, *Miikka Silfverberg* and Jerid Francom (2015). _Kernel Density Estimation for Text-Based Geolocation_. AAAI.
+Mans Hulden, **Miikka Silfverberg** and Jerid Francom (2015). _Kernel Density Estimation for Text-Based Geolocation_. AAAI.
 
 ## Thesis 
 
