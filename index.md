@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="me.jpg" alt="Photo" hspace="20" width="250" align="right"/> I am a postdoc at the [Department of Linguistics](https://www.colorado.edu/linguistics/) at University of Colorado Boulder working in the [CLEAR group](https://www.colorado.edu/lab/clear/). I got my PhD at the University of Helsinki in Finland, where I worked in the [Helsinki Finite-State Technology](http://hfst.github.io/) research group. In October 2016, I defended my PhD thesis on morphological tagging at the Department of Modern Languages at the University of Helsinki. My work mostly falls within the fields of Natural language processing (NLP) and Computational linguistics. My research interests include NLP for morphologically complex languages, computational semantics, morphological tagging, parsing, and computational morphology.
+<img src="me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> I am a postdoc at the [Department of Linguistics](https://www.colorado.edu/linguistics/) at University of Colorado Boulder working in the [CLEAR group](https://www.colorado.edu/lab/clear/). I got my PhD at the University of Helsinki in Finland, where I worked in the [Helsinki Finite-State Technology](http://hfst.github.io/) research group. In October 2016, I defended my PhD thesis on morphological tagging at the Department of Modern Languages at the University of Helsinki. My work mostly falls within the fields of Natural language processing (NLP) and Computational linguistics. My research interests include NLP for morphologically complex languages, computational semantics, morphological tagging, parsing, and computational morphology.
 
 **Find me on**
 
