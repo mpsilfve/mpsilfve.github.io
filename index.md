@@ -45,7 +45,7 @@ Probabilistic Sequence Models](https://helda.helsinki.fi/bitstream/handle/10138/
 
 [The FinnPos morphological tagging toolkit](https://github.com/mpsilfve/finnpos)
 
-[The HFST toolkit for finite-state algebra]()
+[The HFST toolkit for finite-state algebra](http://hfst.github.io/)
 
 ## Talks
 
