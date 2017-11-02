@@ -69,4 +69,4 @@ FSMNLP. 07/2012.
 
 ## Teaching
 
-[Mathematics handout]() for a study group based on Yoav Goldberg's "Neural Network Methods for Natural Language Processing".
+[Mathematics handout](https://www.overleaf.com/read/vptxdcbwqnjz) for a study group based on Yoav Goldberg's "Neural Network Methods for Natural Language Processing".
