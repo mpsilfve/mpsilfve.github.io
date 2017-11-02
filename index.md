@@ -67,6 +67,6 @@ _Probabilistic parsing with weighted FSTs_. Invited tutorial at
 FSMNLP. 07/2012.
 
 
-## Misc. teaching materials
+## Misc. Teaching Materials
 
 [Mathematics handout](https://www.overleaf.com/read/vptxdcbwqnjz) for a study group based on Yoav Goldberg's "Neural Network Methods for Natural Language Processing".
