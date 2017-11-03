@@ -16,7 +16,7 @@ observe that there are two i's and two k's in "Miikka" and that
 
 [**CV**](https://www.overleaf.com/read/mmqcvwqpvtqw)
 
-## Recent Publications (2015-Now)
+## Recent Publications (2015 - Now)
 
 **Miikka Silfverberg**, Lingshuang Jack Mao and Mans Hulden (accepted, 2018). _Sound Analogies with Phoneme Embeddings_. Inaugural Meeting of SCIL.
 
