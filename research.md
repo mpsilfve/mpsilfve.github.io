@@ -94,6 +94,6 @@ processing natural language morphologies. The toolkit is demonstrated
 by wide-coverage implementations of a number of languages of varying
 morphological complexity.
 
-I implemented and helped design several component of HFST. On of
+I implemented and helped design several component of HFST. One of
 the most prominent components is `hfst-twolc` which is a compiler
 for two-level phonological rules.
