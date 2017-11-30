@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## Papers
+## Selected Publications
 
 **Miikka Silfverberg**, Lingshuang Jack Mao and Mans Hulden (accepted, 2018).
 _Sound Analogies with Phoneme Embeddings_ ([**PDF**](assets/analogies.pdf)).
