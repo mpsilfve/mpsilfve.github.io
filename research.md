@@ -16,7 +16,7 @@ articulatory distinctive features. We demonstrate a statistically
 significant correlation between distinctive feature spaces and
 distributionally learned vector spaces._
 
-<hr width="0"/>
+<div>&nbsp;</div>
 
 **Miikka Silfverberg**, Adam Wiemerslage, Ling Liu and Lingshuang Jack Mao (2017). _Data Augmentation for Morphological Reinflection_ ([**PDF**](assets/reinflection.pdf)). CoNLL SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection.
 
@@ -27,7 +27,7 @@ toward a low-resource setting. To this end, it employs data
 augmentation for counteracting overfitting and a copy symbol for
 processing characters unseen in the training data._
 
-<hr width="0"/>
+<div>&nbsp;</div>
 
 **Miikka Silfverberg** and Mans Hulden (2017). _Weakly supervised
 learning of allomorphy_ ([**PDF**](assets/allomorphy.pdf)). SCLEM.
