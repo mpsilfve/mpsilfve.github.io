@@ -79,7 +79,7 @@ FinnPos is a morphological tagging and lemmatization toolkit for morphologically
 * Feature extraction using sub-labels of structured morphological labels (e.g. "Noun+Plural+Nominative").
 * Customizable feature extraction.
 
-The FinnPos is implemented by myself and Teemu Ruokolainen.
+FinnPos is implemented by myself and Teemu Ruokolainen.
 
 [**HFST**](http://hfst.github.io/)
 
