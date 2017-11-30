@@ -8,17 +8,19 @@ layout: page
 _Sound Analogies with Phoneme Embeddings_ ([**PDF**](assets/analogies.pdf)).
 Inaugural Meeting of SCIL
 
-<div class="abstract"><img src="assets/foo.FI.RNN.png" alt="Photo" hspace="25" width="30%" align="right"/> Vector space models of words in NLP&mdash;word embeddings&mdash;have been
-recently shown to reliably encode semantic information. We study how
-well these distributional properties carry over to similarly learned
-phoneme embeddings, and whether phoneme vector spaces align with
-articulatory distinctive features. We demonstrate a statistically
-significant correlation between distinctive feature spaces and
-distributionally learned vector spaces.</div>
+<div class="abstract"><img src="assets/foo.FI.RNN.png" alt="Photo"
+ hspace="25" width="30%" align="right"/> Distributional models of
+ words in NLP&mdash;word embeddings&mdash;have recently been shown to
+ reliably encode semantic information. We study how well corresponding
+ distributional properties carry over to similarly learned phoneme
+ embeddings, that is, whether phoneme vector spaces align with
+ phonetic features such as <b>+/-voiced</b> and <b>+/-back</b>. This
+ paper demonstrates a statistically significant correlation between
+ phonetic feature spaces and purely distributionally learned vector
+ spaces of phonemes.</div>
 
-<div>&nbsp;</div>
 
-**Miikka Silfverberg**, Adam Wiemerslage, Ling Liu and Lingshuang Jack Mao (2017). _Data Augmentation for Morphological Reinflection_ ([**PDF**](assets/reinflection.pdf)). CoNLL SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection
+**Miikka Silfverberg**, Adam Wiemerslage, Ling Liu and Lingshuang Jack Mao (2017). _Data Augmentation for Morphological Reinflection_ ([**PDF**](assets/reinflection.pdf)). CoNLL-SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection
 
 <div class="abstract"><img src="assets/encdec.png" alt="Photo" hspace="20" width="20%"
 align="left"/> This paper presents the submission of the CU Boulder
@@ -34,18 +36,21 @@ augmentation allows the system to learn models even in low resource
 settings which are very challenging for traditional RNN
 encoder-decoder systems.</div>
 
-<div>&nbsp;</div>
 
 **Miikka Silfverberg** and Mans Hulden (2017). _Weakly Supervised
 Learning of Allomorphy_ ([**PDF**](assets/allomorphy.pdf)). SCLEM
 
-<div class="abstract"><img src="assets/dogs.png" alt="Photo" hspace="20" vspace="30" width="30%" align="right"/> Most NLP resources that offer annotations at the word segment level
-provide morphological annotation that includes features indicating
-tense, aspect, modality, gender, case, and other inflectional
-information.  Such information is, however, rarely aligned to the
-relevant parts of the words. In this paper, we explore several methods
-to learn this latent alignment between parts of word forms and the
-grammatical information provided.</div>
+<div class="abstract"><img src="assets/dogs.png" alt="Photo"
+hspace="20" vspace="30" width="30%" align="right"/> Most NLP
+resources, that offer annotations at the word segment level, provide
+morphological annotation that includes features indicating tense,
+aspect, modality, gender, case, and other inflectional information.
+Such information is, however, rarely aligned to the relevant parts of
+the words. In this paper, we explore several methods to learn this
+latent alignment between parts of word forms and the grammatical
+information provided.</div>
+
+
 
 **Miikka Silfverberg**, Teemu Ruokolainen, Krister Lindén and Mikko Kurimo (2016). _FinnPos: An Open-Source Morphological Tagging and Lemmatization Toolkit for Finnish_ ([**PDF**](assets/finnpos.pdf)). Language Resources and Evaluation 50 (4)
 
@@ -55,6 +60,7 @@ is based on the averaged structured perceptron classifier and
 lemmatization is performed employing a combination of a rule-based
 morphological analyzer and a data-driven lemmatization
 model.</div>
+
 
 **Miikka Silfverberg**, Teemu Ruokolainen, Krister Lindén and Mikko Kurimo (2014). _Part-of-Speech Tagging using Conditional Random Fields: Exploiting Sub-Label Dependencies for Improved Accuracy_ ([**PDF**](assets/sublabel.pdf)). ACL
 
