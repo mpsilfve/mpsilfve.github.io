@@ -20,12 +20,19 @@ distributionally learned vector spaces._
 
 **Miikka Silfverberg**, Adam Wiemerslage, Ling Liu and Lingshuang Jack Mao (2017). _Data Augmentation for Morphological Reinflection_ ([**PDF**](assets/reinflection.pdf)). CoNLL SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection.
 
-<img src="assets/encdec.png" alt="Photo" hspace="20" width="20%" align="left"/> _The paper presents the submission of the CU Boulder Linguistics team
-for the 2017 CoNLL shared task on morphological reinflection. The
-system is an RNN Encoder-Decoder model which is specifically geared
-toward a low-resource setting. To this end, it employs data
-augmentation for counteracting overfitting and a copy symbol for
-processing characters unseen in the training data._
+<img src="assets/encdec.png" alt="Photo" hspace="20" width="20%"
+align="left"/> _This paper presents the submission of the CU Boulder
+Linguistics team for the 2017 CoNLL shared task on morphological
+reinflection. The system is an RNN Encoder-Decoder model which is
+specifically geared toward a low-resource setting. To this end, it
+employs data augmentation to counteract overfitting and a copy symbol
+for processing characters unseen in the training data. The system is
+tested on the reinflection task for 52 languages using three data
+settings low (100 training examples), medium (1000 training examples),
+and high (10,000 training examples). The experiments show that data
+augmentation allows the system to learn models even in low resource
+settings which are very challenging for traditional RNN
+encoder-decoder systems._
 
 <div>&nbsp;</div>
 
