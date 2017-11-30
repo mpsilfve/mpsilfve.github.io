@@ -49,7 +49,7 @@ lemmatization is performed employing a combination of a rule-based
 morphological analyzer and a data-driven lemmatization
 model._
 
-**Miikka Silfverberg**, Teemu Ruokolainen, Krister Lindén and Mikko Kurimo (2014). [_Part-of-speech tagging using conditional random fields: Exploiting sub-label dependencies for improved accuracy_](sublabel.pdf). ACL.
+**Miikka Silfverberg**, Teemu Ruokolainen, Krister Lindén and Mikko Kurimo (2014). [_Part-of-speech tagging using conditional random fields: Exploiting sub-label dependencies for improved accuracy_](assets/sublabel.pdf). ACL.
 
 _This paper investigates POS tagging in presence of large,
 fine-grained label sets using CRFs. It proposes to improve tagging
