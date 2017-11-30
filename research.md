@@ -54,7 +54,7 @@ model._
 _This paper investigates POS tagging in presence of large,
 fine-grained label sets using CRFs. It proposes to improve tagging
 accuracy by utilizing dependencies within sub-components of the
-fine-grained labels.  Experiments on English, Romanian, Chezch,
+fine-grained labels.  Experiments on English, Romanian, Czech,
 Estonian and Finnish show that the approach can yield significant
 improvement in tagging accuracy._
 
@@ -62,7 +62,7 @@ improvement in tagging accuracy._
 
 [**FinnPos**](https://github.com/mpsilfve/FinnPos)
 
-FinnPos is a morphological tagging and lemmatization toolkit for morphologically rich languages such as Finnish. It is based on the CRF framework and features
+FinnPos is a morphological tagging and lemmatization toolkit for morphologically rich languages such as Finnish. It is based on the averaged perceptron framework and features
 
 * State-of-the-art tagging accuracy.
 * Fast estimation and application.
