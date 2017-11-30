@@ -5,7 +5,7 @@ layout: page
 ## Papers
 
 **Miikka Silfverberg**, Lingshuang Jack Mao and Mans Hulden (accepted, 2018).
-[_Sound Analogies with Phoneme Embeddings_](assets/analogies.pdf).
+_Sound Analogies with Phoneme Embeddings_ ([**PDF**](assets/analogies.pdf)).
 Inaugural Meeting of SCIL.
 
 <img src="assets/foo.FI.RNN.png" alt="Photo" hspace="25" width="30%" align="right"/> _Vector space models of words in NLP---word embeddings---have been
@@ -18,7 +18,7 @@ distributionally learned vector spaces._
 
 <hr width="0"/>
 
-**Miikka Silfverberg**, Adam Wiemerslage, Ling Liu and Lingshuang Jack Mao (2017). [_Data Augmentation for Morphological Reinflection_](assets/reinflection.pdf). CoNLL SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection.
+**Miikka Silfverberg**, Adam Wiemerslage, Ling Liu and Lingshuang Jack Mao (2017). _Data Augmentation for Morphological Reinflection_ ([**PDF**](assets/reinflection.pdf)). CoNLL SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection.
 
 <img src="assets/encdec.png" alt="Photo" hspace="20" width="20%" align="left"/> _The paper presents the submission of the CU Boulder Linguistics team
 for the 2017 CoNLL shared task on morphological reinflection. The
@@ -29,8 +29,8 @@ processing characters unseen in the training data._
 
 <hr width="0"/>
 
-**Miikka Silfverberg** and Mans Hulden (2017). [_Weakly supervised
-learning of allomorphy_](assets/allomorphy.pdf). SCLEM.
+**Miikka Silfverberg** and Mans Hulden (2017). _Weakly supervised
+learning of allomorphy_ ([**PDF**](assets/allomorphy.pdf)). SCLEM.
 
 <img src="assets/dogs.png" alt="Photo" hspace="20" vspace="30" width="30%" align="right"/> _Most NLP resources that offer annotations at the word segment level
 provide morphological annotation that includes features indicating
@@ -40,7 +40,7 @@ relevant parts of the words. In this paper, we explore several methods
 to learn this latent alignment between parts of word forms and the
 grammatical information provided._
 
-**Miikka Silfverberg**, Teemu Ruokolainen, Krister Lindén and Mikko Kurimo (2016). [_FinnPos: an open-source morphological tagging and lemmatization toolkit for Finnish_](assets/finnpos.pdf). Language Resources and Evaluation 50 (4).
+**Miikka Silfverberg**, Teemu Ruokolainen, Krister Lindén and Mikko Kurimo (2016). _FinnPos: an open-source morphological tagging and lemmatization toolkit for Finnish_ ([**PDF**](assets/finnpos.pdf)). Language Resources and Evaluation 50 (4).
 
 _This paper describes FinnPos, an open-source morphological tagging
 and lemmatization toolkit for Finnish. The morphological tagging model
@@ -49,7 +49,7 @@ lemmatization is performed employing a combination of a rule-based
 morphological analyzer and a data-driven lemmatization
 model._
 
-**Miikka Silfverberg**, Teemu Ruokolainen, Krister Lindén and Mikko Kurimo (2014). [_Part-of-speech tagging using conditional random fields: Exploiting sub-label dependencies for improved accuracy_](assets/sublabel.pdf). ACL.
+**Miikka Silfverberg**, Teemu Ruokolainen, Krister Lindén and Mikko Kurimo (2014). _Part-of-speech tagging using conditional random fields: Exploiting sub-label dependencies for improved accuracy_ ([**PDF**](assets/sublabel.pdf)). ACL.
 
 _This paper investigates POS tagging in presence of large,
 fine-grained label sets using CRFs. It proposes to improve tagging
