@@ -8,7 +8,7 @@ layout: page
 _Sound Analogies with Phoneme Embeddings_ ([**PDF**](assets/analogies.pdf)).
 Inaugural Meeting of SCIL
 
-<div class="abstract"><img src="assets/foo.FI.RNN.png" alt="Photo" hspace="25" width="30%" align="right"/> Vector space models of words in NLP---word embeddings---have been
+<div class="abstract"><img src="assets/foo.FI.RNN.png" alt="Photo" hspace="25" width="30%" align="right"/> Vector space models of words in NLP&mdash;word embeddings&mdash;have been
 recently shown to reliably encode semantic information. We study how
 well these distributional properties carry over to similarly learned
 phoneme embeddings, and whether phoneme vector spaces align with
