@@ -5,7 +5,7 @@ layout: page
 ## Selected Publications
 
 **Miikka Silfverberg**, Lingshuang Jack Mao and Mans Hulden (accepted, 2018).
-_Sound Analogies with Phoneme Embeddings_ ([**PDF**](assets/analogies.pdf)).
+_Sound Analogies with Phoneme Embeddings_ ([**PDF**](assets/analogies.pdf), [poster](assets/scil2018.pdf)).
 Inaugural Meeting of SCIL
 
 <div class="abstract"><img src="assets/foo.FI.RNN.png" alt="Photo"
@@ -20,7 +20,7 @@ Inaugural Meeting of SCIL
  spaces of phonemes.</div>
 
 
-**Miikka Silfverberg**, Adam Wiemerslage, Ling Liu and Lingshuang Jack Mao (2017). _Data Augmentation for Morphological Reinflection_ ([**PDF**](assets/reinflection.pdf)). CoNLL-SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection
+**Miikka Silfverberg**, Adam Wiemerslage, Ling Liu and Lingshuang Jack Mao (2017). _Data Augmentation for Morphological Reinflection_ ([**PDF**](assets/reinflection.pdf), [poster](assets/conll17poster_final.pdf)). CoNLL-SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection
 
 <div class="abstract"><img src="assets/encdec.png" alt="Photo" hspace="20" width="20%"
 align="left"/> This paper presents the submission of the CU Boulder
@@ -38,7 +38,7 @@ encoder-decoder systems.</div>
 
 
 **Miikka Silfverberg** and Mans Hulden (2017). _Weakly Supervised
-Learning of Allomorphy_ ([**PDF**](assets/allomorphy.pdf)). SCLEM
+Learning of Allomorphy_ ([**PDF**](assets/allomorphy.pdf), [poster](assets/sclem17poster.pdf)). SCLEM
 
 <div class="abstract"><img src="assets/dogs.png" alt="Photo"
 hspace="20" vspace="30" width="30%" align="right"/> Most NLP
