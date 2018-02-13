@@ -20,7 +20,7 @@ observe that there are two i's and two k's in "Miikka" and that
 
 Also have a look at my [research page](research.html).
  
-**Miikka Silfverberg**, Lingshuang Jack Mao and Mans Hulden (accepted, 2018). _Sound Analogies with Phoneme Embeddings_. Inaugural Meeting of SCIL.
+**Miikka Silfverberg**, Lingshuang Jack Mao and Mans Hulden (2018). _Sound Analogies with Phoneme Embeddings_. Inaugural Meeting of SCIL.
 
 **Miikka Silfverberg** and Mans Hulden (2017). _Automatic Morpheme Segmentation and Labeling in Universal Dependencies resources_. Universal Dependency Workshop at NoDaLiDa.
 
