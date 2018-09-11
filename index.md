@@ -20,11 +20,13 @@ observe that there are two i's and two k's in "Miikka" and that
 
 Also have a look at my [research page](research.html).
 
-**Miikka Silfverberg** and Mans Hulden (2018). _An Encoder-Decoder Approach to the Paradigm Cell Filling Problem_. EMNLP.
+**Miikka Silfverberg** and Mans Hulden (accepted). _An Encoder-Decoder Approach to the Paradigm Cell Filling Problem_. EMNLP.
 
-Adam Wiemerslage, **Miikka Silfverberg** and Mans Hulden (2018). _Phonological Features for Morphological Inflection_. SIGMORPHON.
+Ryan Cotterell, Christo Kirov, John Sylak-Glassman, Géraldine Walther, Ekaterina Vylomova, Arya D. McCarthy, Katharina Kann, Sebastian Mielke, Garrett Nicolai, **Miikka Silfverberg**, David Yarowsky, Jason Eisner and Mans Hulden (forthcoming). _The CoNLL--SIGMORPHON 2018 Shared Task: Universal Morphological Reinflection_. CoNLL.
 
-Arya McCarthy, **Miikka Silfverberg**, Ryan Cotterell and Mans Hulden (2018). _Marrying Universal Dependencies and Universal Morphology_. UDW.
+Adam Wiemerslage, **Miikka Silfverberg** and Mans Hulden (accepted). _Phonological Features for Morphological Inflection_. SIGMORPHON.
+
+Arya McCarthy, **Miikka Silfverberg**, Ryan Cotterell and Mans Hulden (accepted). _Marrying Universal Dependencies and Universal Morphology_. UDW.
  
 **Miikka Silfverberg** and Senka Drobac (2018). _Sub-label dependencies for Neural Morphological Tagging -- The Joint Submission of University of Colorado and University of Helsinki for VarDial 2018_. VarDial.
 
