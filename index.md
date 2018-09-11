@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="assets/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> I am a postdoc at the [Department of Linguistics](https://www.colorado.edu/linguistics/) at University of Colorado Boulder working in the [CLEAR group](https://www.colorado.edu/lab/clear/). I got my PhD at the University of Helsinki in Finland, where I worked in the [Helsinki Finite-State Technology](http://hfst.github.io/) research group. In October 2016, I defended my PhD thesis on morphological tagging at the Department of Modern Languages at the University of Helsinki. My work mostly falls within the fields of Natural language processing (NLP) and Computational linguistics. My research interests include NLP for morphologically complex languages, computational semantics, morphological tagging, parsing, as well as computational phonology and morphology. 
+<img src="assets/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> I am a Lecturer at the Department of Digital Humanities at the University of Helsinki. Until September 2018 I was a postdoc at the [Department of Linguistics](https://www.colorado.edu/linguistics/) at University of Colorado Boulder working in the [CLEAR group](https://www.colorado.edu/lab/clear/). I got my PhD at the University of Helsinki in Finland, where I worked in the [Helsinki Finite-State Technology](http://hfst.github.io/) research group. In October 2016, I defended my PhD thesis on morphological tagging at the Department of Modern Languages at the University of Helsinki. My work mostly falls within the fields of Natural language processing (NLP) and Computational linguistics. My research interests include NLP for morphologically complex languages, computational semantics, morphological tagging, parsing, as well as computational phonology and morphology. 
 
 **Find me on**
 
@@ -19,7 +19,17 @@ observe that there are two i's and two k's in "Miikka" and that
 ## Recent Publications (2015 - Now)
 
 Also have a look at my [research page](research.html).
+
+**Miikka Silfverberg** and Mans Hulden (2018). _An Encoder-Decoder Approach to the Paradigm Cell Filling Problem_. EMNLP.
+
+Adam Wiemerslage, **Miikka Silfverberg** and Mans Hulden (2018). _Phonological Features for Morphological Inflection_. SIGMORPHON.
+
+Arya McCarthy, **Miikka Silfverberg**, Ryan Cotterell and Mans Hulden (2018). _Marrying Universal Dependencies and Universal Morphology_. UDW.
  
+**Miikka Silfverberg** and Senka Drobac (2018). _Sub-label dependencies for Neural Morphological Tagging -- The Joint Submission of University of Colorado and University of Helsinki for VarDial 2018_. VarDial.
+
+**Miikka Silfverberg**, Ling Liu, and Mans Hulden (2018). _A Computational Model for the Linguistic Notion of Morphological Paradigm_. COLING.
+
 **Miikka Silfverberg**, Lingshuang Jack Mao and Mans Hulden (2018). _Sound Analogies with Phoneme Embeddings_. Inaugural Meeting of SCIL.
 
 **Miikka Silfverberg** and Mans Hulden (2017). _Automatic Morpheme Segmentation and Labeling in Universal Dependencies resources_. Universal Dependency Workshop at NoDaLiDa.
