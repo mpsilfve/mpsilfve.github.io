@@ -22,7 +22,7 @@ Also have a look at my [research page](research.html).
 
 **Miikka Silfverberg** and Mans Hulden (accepted). _An Encoder-Decoder Approach to the Paradigm Cell Filling Problem_. EMNLP.
 
-Ryan Cotterell, Christo Kirov, John Sylak-Glassman, Géraldine Walther, Ekaterina Vylomova, Arya D. McCarthy, Katharina Kann, Sebastian Mielke, Garrett Nicolai, **Miikka Silfverberg**, David Yarowsky, Jason Eisner and Mans Hulden (forthcoming). _The CoNLL--SIGMORPHON 2018 Shared Task: Universal Morphological Reinflection_. CoNLL.
+Ryan Cotterell, Christo Kirov, John Sylak-Glassman, Géraldine Walther, Ekaterina Vylomova, Arya D. McCarthy, Katharina Kann, Sebastian Mielke, Garrett Nicolai, **Miikka Silfverberg**, David Yarowsky, Jason Eisner and Mans Hulden (forthcoming). _The CoNLL--SIGMORPHON 2018 Shared Task: Universal Morphological Reinflection_. CoNLL-SIGMORPHON Shared Task on Morphological Reinflection.
 
 Adam Wiemerslage, **Miikka Silfverberg** and Mans Hulden (accepted). _Phonological Features for Morphological Inflection_. SIGMORPHON.
 
