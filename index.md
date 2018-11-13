@@ -65,6 +65,14 @@ Probabilistic Sequence Models](https://helda.helsinki.fi/bitstream/handle/10138/
 
 [The HFST toolkit for finite-state algebra](http://hfst.github.io/)
 
+## Teaching
+
+[Introduction to Language Technology](https://courses.helsinki.fi/en/kik-405/124787882), KIK-405, fall 2018
+
+[Models and Algorithms in NLP Applications](https://courses.helsinki.fi/en/LDA-T3105/124901235), LDA-T3105, fall 2018
+
+[Command-Line Course](https://courses.helsinki.fi/en/kik-lg218/126710126), KIK-LG218, fall 2018
+
 ## Talks
 
 _GRoW Your LaTeX Skills_. Invited tutorial at the Graduate Research
