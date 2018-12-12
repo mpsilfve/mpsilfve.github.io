@@ -4,7 +4,21 @@ layout: page
 
 ## Selected Publications
 
-**Miikka Silfverberg**, Lingshuang Jack Mao and Mans Hulden (accepted, 2018).
+**Miikka Silfverberg** and Mans Hulden (2018).
+_An Encoder-Decoder Approach to the Paradigm Cell Filling Problem_ ([**PDF**](assets/paradigm.pdf)).
+
+<div class="abstract"><img src="assets/dropout.png" alt="Photo"
+ hspace="25" width="30%" align="right"/>The Paradigm Cell Filling Problem in morphology
+asks to complete word inflection tables
+from partial ones. We implement novel
+neural models for this task, evaluating them on
+18 data sets in 8 languages, showing performance
+that is comparable with previous work
+with far less training data. We also publish a
+new dataset for this task and code implementing
+the system described in this paper.</div>
+
+**Miikka Silfverberg**, Lingshuang Jack Mao and Mans Hulden (2018).
 _Sound Analogies with Phoneme Embeddings_ ([**PDF**](assets/analogies.pdf), [poster](assets/scil2018.pdf)).
 Inaugural Meeting of SCIL
 
