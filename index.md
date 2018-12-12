@@ -75,11 +75,11 @@ Probabilistic Sequence Models](https://helda.helsinki.fi/bitstream/handle/10138/
 
 ## Talks
 
-_Neural Models for Word Inflection and Phonology_ Invitedt talk at the
-Depratment of Linguistics at Indiana University, Bloomington,
+_Neural Models for Word Inflection and Phonology_. Invited talk at the
+Department of Linguistics at Indiana University, Bloomington,
 IN. 04/2018
 
-_Neural Models for Morphology_ Invited talk at Ling Circle at the
+_Neural Models for Morphology_. Invited talk at Ling Circle at the
 Department of Linguistics at University of Colorado, Boulder,
 CO. 04/2018
 
