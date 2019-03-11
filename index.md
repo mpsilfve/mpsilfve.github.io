@@ -73,6 +73,14 @@ Probabilistic Sequence Models](https://helda.helsinki.fi/bitstream/handle/10138/
 
 [Command-Line Course](https://courses.helsinki.fi/en/kik-lg218/126710126), KIK-LG218, fall 2018
 
+[Introduction to Deep Learning](https://courses.helsinki.fi/en/lda-t3114/127353310), LDA-T3114, spring 2019
+
+[Mathematics for Linguists](https://courses.helsinki.fi/en/kik-lg209/125773335), KIK-LG209, spring 2019
+
+## Office Hours
+
+Mondays 13.30-14.30 in Metsätalo room A316 (Unioninkatu 40)
+
 ## Talks
 
 _Neural Models for Word Inflection and Phonology_. Invited talk at the
@@ -100,10 +108,6 @@ Finland. 12/2014.
 _Probabilistic parsing with weighted FSTs_. Invited tutorial at
 FSMNLP, Donostia, Spain. 07/2012.
 
-
-## Office Hours
-
-Mondays 13.30-14.30 in Metsätalo room A316 (Unioninkatu 40)
 
 ## Misc. Teaching Materials
 
