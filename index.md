@@ -101,6 +101,10 @@ _Probabilistic parsing with weighted FSTs_. Invited tutorial at
 FSMNLP, Donostia, Spain. 07/2012.
 
 
+## Office Hours
+
+Mondays 13.30-14.30 in Metsätalo room A316 (Unioninkatu 40)
+
 ## Misc. Teaching Materials
 
 [Mathematics handout](https://www.overleaf.com/read/vptxdcbwqnjz) for a study group based on Yoav Goldberg's "Neural Network Methods for Natural Language Processing".
