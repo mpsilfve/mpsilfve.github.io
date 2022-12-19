@@ -12,7 +12,7 @@ Until January 2020, I was a Lecturer of Language Technology at the [Department o
 
 **Contact**
 
-My email address is of the form first.last@helsinki.fi. Please
+My email address is of the form first.last@ubc.ca. Please
 observe that there are two i's and two k's in "Miikka" and that
 "Silfverberg" is spelled with "fv".
 
