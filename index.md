@@ -8,7 +8,7 @@ I still review papers in CL & NLP and might publish the odd paper once in a whil
 
 **BIO**
 
-Starting my physics studies in Helsinki in September 2024 🥳 In a previous life, I was an assistant professor at the [Department of Linguistics at the University of British Columbia](https://linguistics.ubc.ca/) (UBC= and taught in the Master of Data Science in Computational Linguistics or [MDS-CL](https://masterdatascience.ubc.ca/programs/computational-linguistics) program at UBC. 
+Starting my physics studies in Helsinki in September 2024 🥳 In a previous life, I was an assistant professor at the [Department of Linguistics at the University of British Columbia](https://linguistics.ubc.ca/) and taught in the Master of Data Science in Computational Linguistics or [MDS-CL](https://masterdatascience.ubc.ca/programs/computational-linguistics) program at UBC. 
 Until January 2020, I was a Lecturer of Language Technology at the [Department of Digital Humanities](https://blogs.helsinki.fi/language-technology/) at the University of Helsinki. In Helsinki, I also worked in the [FoTran](https://blogs.helsinki.fi/found-in-translation/). Until September 2018 I was a postdoc at the [Department of Linguistics](https://www.colorado.edu/linguistics/) at University of Colorado Boulder working in the [CLEAR group](https://www.colorado.edu/lab/clear/). I got my PhD at the University of Helsinki in Finland, where I worked in the [Helsinki Finite-State Technology](http://hfst.github.io/) research group. In October 2016, I defended my PhD thesis on morphological tagging at the Department of Modern Languages at the University of Helsinki. 
 
 **Find me on**
