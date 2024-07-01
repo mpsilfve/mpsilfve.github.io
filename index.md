@@ -2,8 +2,13 @@
 layout: default
 ---
 
-<img src="assets/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> My work mostly falls within the fields of Natural language processing (NLP) and Computational linguistics. My research interests include NLP for morphologically complex languages, computational semantics, morphological tagging, parsing, as well as computational phonology and morphology. I am an assistant professor at the [Department of Linguistics at the University of British Columbia](https://linguistics.ubc.ca/) (UBC). I am also a teacher in the Master of Data Science in Computational Linguistics or [MDS-CL](https://masterdatascience.ubc.ca/programs/computational-linguistics) program at UBC. 
+<img src="assets/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Current physics undergrad student and former computational linguist. When I was still active in the research world, I worked in natural language processing (NLP) and computational linguistics. Specifically, NLP for morphologically complex languages, computer-assisted language documentation, morphological tagging, parsing, computational phonology and computational morphology.
 
+I still review papers in CL & NLP and might publish the odd paper once in a while. If you're insterested in collaborating, just shoot me an email. No promises though.
+
+**BIO**
+
+Starting my physics studies in Helsinki in September 2024 🥳 In a previous life, I was an assistant professor at the [Department of Linguistics at the University of British Columbia](https://linguistics.ubc.ca/) (UBC= and taught in the Master of Data Science in Computational Linguistics or [MDS-CL](https://masterdatascience.ubc.ca/programs/computational-linguistics) program at UBC. 
 Until January 2020, I was a Lecturer of Language Technology at the [Department of Digital Humanities](https://blogs.helsinki.fi/language-technology/) at the University of Helsinki. In Helsinki, I also worked in the [FoTran](https://blogs.helsinki.fi/found-in-translation/). Until September 2018 I was a postdoc at the [Department of Linguistics](https://www.colorado.edu/linguistics/) at University of Colorado Boulder working in the [CLEAR group](https://www.colorado.edu/lab/clear/). I got my PhD at the University of Helsinki in Finland, where I worked in the [Helsinki Finite-State Technology](http://hfst.github.io/) research group. In October 2016, I defended my PhD thesis on morphological tagging at the Department of Modern Languages at the University of Helsinki. 
 
 **Find me on**
@@ -27,11 +32,13 @@ Probabilistic Sequence Models](https://helda.helsinki.fi/bitstream/handle/10138/
 
 ## Software Projects
 
+[The ParserTools toolkit for building FST morphologies from human-readable specifications (particularly for Algnquian languages)](https://github.com/ELF-Lab/ParserTools)
+
 [The FinnPos morphological tagging toolkit](https://github.com/mpsilfve/finnpos)
 
 [The HFST toolkit for finite-state algebra](http://hfst.github.io/)
 
-## Teaching
+## Past Teaching
 
 ### UBC
 
