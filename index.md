@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="assets/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Current physics undergrad student and former computational linguist. When I was still active in the research world, I worked in natural language processing (NLP) and computational linguistics. Specifically, NLP for morphologically complex languages, computer-assisted language documentation, morphological tagging, parsing, computational phonology and computational morphology.
+<img src="assets/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Current physics undergrad student and former computational linguist. When I was still active in the research world, I worked in natural language processing (NLP) and computational linguistics (CL). Specifically, NLP for morphologically complex languages, computer-assisted language documentation, morphological tagging, parsing, computational phonology and computational morphology.
 
 I still review papers in CL & NLP and might publish the odd paper once in a while. If you're insterested in collaborating, just shoot me an email. No promises though.
 
