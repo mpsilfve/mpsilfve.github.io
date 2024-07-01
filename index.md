@@ -32,7 +32,7 @@ Probabilistic Sequence Models](https://helda.helsinki.fi/bitstream/handle/10138/
 
 ## Software Projects
 
-[The ParserTools toolkit for building FST morphologies from human-readable specifications (particularly for Algnquian languages)](https://github.com/ELF-Lab/ParserTools)
+[The ParserTools toolkit for building FST morphologies from human-readable specifications (particularly for Algonquian languages)](https://github.com/ELF-Lab/ParserTools)
 
 [The FinnPos morphological tagging toolkit](https://github.com/mpsilfve/finnpos)
 
