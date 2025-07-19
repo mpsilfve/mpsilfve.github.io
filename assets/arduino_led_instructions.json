@@ -1,21 +1,25 @@
 {
-  "pattern_length": 4,
+  "pattern_length": 14,
   "frames": [
-    {
-      "colors": ["#FF0000"],
-      "delay_milliseconds": 500
-    },
-    {
-      "colors": ["#00FF00"],
-      "delay_milliseconds": 500
-    },
-    {
-      "colors": ["#0000FF"],
-      "delay_milliseconds": 500
-    },
-    {
-      "colors": ["0"],
-      "delay_milliseconds": 200
-    }
+    { "colors": ["#FFFFFF"], "delay_milliseconds": 100 },
+    { "colors": ["0"],        "delay_milliseconds": 50 },
+
+    { "colors": ["#FFFFFF"], "delay_milliseconds": 200 },
+    { "colors": ["0"],        "delay_milliseconds": 50 },
+
+    { "colors": ["#FFFFFF"], "delay_milliseconds": 300 },
+    { "colors": ["0"],        "delay_milliseconds": 100 },
+
+    { "colors": ["#FFFFFF"], "delay_milliseconds": 150 },
+    { "colors": ["0"],        "delay_milliseconds": 50 },
+
+    { "colors": ["#FFFFFF"], "delay_milliseconds": 500 },  // Long climax pulse
+    { "colors": ["0"],        "delay_milliseconds": 200 },
+
+    { "colors": ["#FFFFFF"], "delay_milliseconds": 100 },
+    { "colors": ["0"],        "delay_milliseconds": 50 },
+
+    { "colors": ["#FFFFFF"], "delay_milliseconds": 300 },
+    { "colors": ["0"],        "delay_milliseconds": 100 }
   ]
 }
