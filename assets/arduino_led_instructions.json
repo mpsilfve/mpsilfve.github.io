@@ -1,25 +1,61 @@
 {
   "pattern_length": 14,
   "frames": [
-    { "colors": ["#FFFFFF"], "delay_milliseconds": 100 },
-    { "colors": ["0"],        "delay_milliseconds": 50 },
-
-    { "colors": ["#FFFFFF"], "delay_milliseconds": 200 },
-    { "colors": ["0"],        "delay_milliseconds": 50 },
-
-    { "colors": ["#FFFFFF"], "delay_milliseconds": 300 },
-    { "colors": ["0"],        "delay_milliseconds": 100 },
-
-    { "colors": ["#FFFFFF"], "delay_milliseconds": 150 },
-    { "colors": ["0"],        "delay_milliseconds": 50 },
-
-    { "colors": ["#FFFFFF"], "delay_milliseconds": 500 },
-    { "colors": ["0"],        "delay_milliseconds": 200 },
-
-    { "colors": ["#FFFFFF"], "delay_milliseconds": 100 },
-    { "colors": ["0"],        "delay_milliseconds": 50 },
-
-    { "colors": ["#FFFFFF"], "delay_milliseconds": 300 },
-    { "colors": ["0"],        "delay_milliseconds": 100 }
+    {
+      "colors": ["#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"],
+      "delay_milliseconds": 100
+    },
+    {
+      "colors": ["0", "0", "0", "0"],
+      "delay_milliseconds": 50
+    },
+    {
+      "colors": ["#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"],
+      "delay_milliseconds": 200
+    },
+    {
+      "colors": ["0", "0", "0", "0"],
+      "delay_milliseconds": 50
+    },
+    {
+      "colors": ["#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"],
+      "delay_milliseconds": 300
+    },
+    {
+      "colors": ["0", "0", "0", "0"],
+      "delay_milliseconds": 100
+    },
+    {
+      "colors": ["#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"],
+      "delay_milliseconds": 150
+    },
+    {
+      "colors": ["0", "0", "0", "0"],
+      "delay_milliseconds": 50
+    },
+    {
+      "colors": ["#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"],
+      "delay_milliseconds": 500
+    },
+    {
+      "colors": ["0", "0", "0", "0"],
+      "delay_milliseconds": 200
+    },
+    {
+      "colors": ["#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"],
+      "delay_milliseconds": 100
+    },
+    {
+      "colors": ["0", "0", "0", "0"],
+      "delay_milliseconds": 50
+    },
+    {
+      "colors": ["#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"],
+      "delay_milliseconds": 300
+    },
+    {
+      "colors": ["0", "0", "0", "0"],
+      "delay_milliseconds": 100
+    }
   ]
 }
