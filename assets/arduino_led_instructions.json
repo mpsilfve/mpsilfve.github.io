@@ -1,13 +1,21 @@
 {
-  "pattern_length": 2,
+  "pattern_length": 4,
   "frames": [
     {
-      "colors": ["#FFFFFF"],
-      "delay_milliseconds": 1000
+      "colors": ["#FF0000"],
+      "delay_milliseconds": 500
+    },
+    {
+      "colors": ["#00FF00"],
+      "delay_milliseconds": 500
+    },
+    {
+      "colors": ["#0000FF"],
+      "delay_milliseconds": 500
     },
     {
       "colors": ["0"],
-      "delay_milliseconds": 100
+      "delay_milliseconds": 200
     }
   ]
 }
