@@ -1,37 +1,14 @@
 {
   "pattern_length": 8,
   "frames": [
-    {
-      "colors": ["#FFFFFF", "#FFFFFF", "0", "0"],
-      "delay_milliseconds": 200
-    },
-    {
-      "colors": ["0", "0", "#FFFFFF", "#FFFFFF"],
-      "delay_milliseconds": 100
-    },
-    {
-      "colors": ["#FFFFFF", "#FFFFFF", "0", "0"],
-      "delay_milliseconds": 300
-    },
-    {
-      "colors": ["0", "0", "#FFFFFF", "#FFFFFF"],
-      "delay_milliseconds": 150
-    },
-    {
-      "colors": ["#FFFFFF", "#FFFFFF", "0", "0"],
-      "delay_milliseconds": 400
-    },
-    {
-      "colors": ["0", "0", "#FFFFFF", "#FFFFFF"],
-      "delay_milliseconds": 200
-    },
-    {
-      "colors": ["#FFFFFF", "#FFFFFF", "0", "0"],
-      "delay_milliseconds": 250
-    },
-    {
-      "colors": ["0", "0", "#FFFFFF", "#FFFFFF"],
-      "delay_milliseconds": 150
-    }
+    { "colors": ["#FFFFFF", "0", "0", "0"], "delay_milliseconds": 150 },
+    { "colors": ["0", "#FFFFFF", "0", "0"], "delay_milliseconds": 150 },
+    { "colors": ["0", "0", "#FFFFFF", "0"], "delay_milliseconds": 150 },
+    { "colors": ["0", "0", "0", "#FFFFFF"], "delay_milliseconds": 150 },
+
+    { "colors": ["0", "0", "0", "#FFFFFF"], "delay_milliseconds": 150 },
+    { "colors": ["0", "0", "#FFFFFF", "0"], "delay_milliseconds": 150 },
+    { "colors": ["0", "#FFFFFF", "0", "0"], "delay_milliseconds": 150 },
+    { "colors": ["#FFFFFF", "0", "0", "0"], "delay_milliseconds": 150 }
   ]
 }
