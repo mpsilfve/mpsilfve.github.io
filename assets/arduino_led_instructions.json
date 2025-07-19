@@ -13,7 +13,7 @@
     { "colors": ["#FFFFFF"], "delay_milliseconds": 150 },
     { "colors": ["0"],        "delay_milliseconds": 50 },
 
-    { "colors": ["#FFFFFF"], "delay_milliseconds": 500 },  // Long climax pulse
+    { "colors": ["#FFFFFF"], "delay_milliseconds": 500 },
     { "colors": ["0"],        "delay_milliseconds": 200 },
 
     { "colors": ["#FFFFFF"], "delay_milliseconds": 100 },
