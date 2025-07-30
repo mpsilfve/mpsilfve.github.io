@@ -8,7 +8,7 @@
       "direction": 1,
       "mirror": true,
       "delay_factor": 1,
-      "pulse_form": "3F00007F3F00BFBF0000FF0000BFBF000077F23003F"
+      "pulse_form": "3F003F7F007FBF00BFFF00FFBF00BF7F007F3F003F"
     }
   ]
 }
