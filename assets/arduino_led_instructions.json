@@ -1,6 +1,6 @@
 {
   "num_leds": 30,
-  "refresh_ms": 100,
+  "refresh_ms": 10,
   "effects": [
     {
       "type": "led_map",
